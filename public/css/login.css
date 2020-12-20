@@ -1,0 +1,54 @@
+body
+{
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+    background-image:url(../image/coffee1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover,contain;
+}
+
+
+.card-body { 
+    background: rgba(0, 0, 0, 1);
+     }
+
+#social {
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    float:left;
+}
+
+
+.btn2
+{
+    display: inline-block;
+    background-color:#f1f1f1;
+    width:50px;
+    height:50px;
+    border-radius:30%;
+    padding:5px;
+    margin:5px;
+}
+.btn2 i
+{
+    text-align:center;
+    line-height:48px;
+    color:  #55BCC9;
+}
+
+.btn2:hover i
+{
+    transform:scale(1.3);
+
+}
+
+
+
+
+
+
+
+
+
